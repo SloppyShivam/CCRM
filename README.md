@@ -26,7 +26,7 @@
 - **Interfaces & Abstract Classes:** For service and domain layers  
 - **Nested Classes:** Builder pattern for `Course` creation  
 - **Enums:** Semester and Grade enums. 
-- **Design Patterns:** Singleton for `DataStore`, Builder for `Course`  
+- **Design Patterns:** Builder for `Course`  
 - **Recursion** 
 
 ---
